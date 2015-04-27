@@ -1,0 +1,15 @@
+Source: infrastructure-test
+Section: misc
+Priority: extra
+Maintainer: Eugenio Paolantonio (g7) <me@medesimo.eu>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+Homepage: http://semplice-linux.org
+Vcs-Git: https://github.com/semplice/infrastructure-test.git
+Vcs-Browser: https://github.com/semplice/infrastructure-test
+
+Package: infrastructure-test
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: An useless package.
+ Seriously, it is. Do not install it.
