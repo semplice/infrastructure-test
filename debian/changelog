@@ -1,3 +1,9 @@
+infrastructure-test (1.0.0+numb-1) unstable; urgency=medium
+
+  * Woof.
+
+ -- Eugenio Paolantonio (g7) <me@medesimo.eu>  Mon, 18 May 2015 18:50:27 +0200
+
 infrastructure-test (1.0.0-1) unstable; urgency=low
 
   * Initial release
