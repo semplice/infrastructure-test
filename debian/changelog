@@ -1,8 +1,15 @@
-infrastructure-test (1.0.1-2) UNRELEASED; urgency=medium
+infrastructure-test (1.2.0-1) dontknow; urgency=medium
+
+  * HEEEY
+
+ -- Eugenio Paolantonio (g7) <me@medesimo.eu>  Tue, 19 May 2015 22:14:21 +0200
+
+infrastructure-test (1.0.1-3) UNRELEaASED; urgency=medium
 
   * Meow
+  * 
 
- -- Eugenio Paolantonio (g7) <me@medesimo.eu>  Mon, 18 May 2015 18:06:12 +0200
+ -- Eugenio Paolantonio (g7) <me@medesimo.eu>  Tue, 19 May 2015 22:14:13 +0200
 
 infrastructure-test (1.0.1-1) devel; urgency=medium
 
