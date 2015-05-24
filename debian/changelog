@@ -1,8 +1,14 @@
-infrastructure-test (1.0.2+numb-1) UNRELEASED; urgency=medium
+infrastructure-test (1.0.3+numb-1) waat; urgency=medium
 
-  * 
+  * HEYA
 
- -- Eugenio Paolantonio (g7) <me@medesimo.eu>  Tue, 19 May 2015 19:56:53 +0200
+ -- Eugenio Paolantonio (g7) <me@medesimo.eu>  Sun, 24 May 2015 13:04:10 +0200
+
+infrastructure-test (1.0.2+numb-1) waat; urgency=medium
+
+  * HEYA
+
+ -- Eugenio Paolantonio (g7) <me@medesimo.eu>  Sun, 24 May 2015 13:00:37 +0200
 
 infrastructure-test (1.0.1+numb-1) waat; urgency=medium
 
